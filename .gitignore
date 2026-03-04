@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Model files
+model/
+*.pt
+*.bin
+*.safetensors
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
